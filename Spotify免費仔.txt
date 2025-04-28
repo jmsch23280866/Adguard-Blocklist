@@ -3,10 +3,10 @@
 ! Last modified: 2025/04/28 08:20 +0800
 ! Homepage: https://github.com/jmsch23280866/Adguard-Blocklist/
 ! Email (premier.worm.opnc@mask.me)
-!應用程式過濾規則-----------------------------------------------
+! 應用程式過濾規則-----------------------------------------------
 ||spotify.com/premium-marketing/
 ||spotify.com/net-fortune/
 ||spotify.com/ad-logic/
-!網頁版撥放器過濾規則-------------------------------------------
+! 網頁版撥放器過濾規則-------------------------------------------
 ||spotifycdn.com/cdn/animations/
 ||spotifycdn.com/cdn/images/
