@@ -9,3 +9,4 @@
 ||spotify.com/ad-logic/
 !網頁版撥放器過濾規則-------------------------------------------
 ||spotifycdn.com/cdn/animations/
+||spotifycdn.com/cdn/images/
