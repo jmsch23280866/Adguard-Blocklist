@@ -1,3 +1,6 @@
-﻿||spotify.com/premium-marketing/
+!應用程式過濾規則
+||spotify.com/premium-marketing/
 ||spotify.com/net-fortune/
 ||spotify.com/ad-logic/
+!網頁版撥放器過濾規則
+||spotifycdn.com/cdn/animations/
