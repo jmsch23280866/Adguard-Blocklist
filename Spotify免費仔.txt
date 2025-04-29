@@ -7,6 +7,7 @@
 ||spotify.com/premium-marketing/
 ||spotify.com/net-fortune/
 ||spotify.com/ad-logic/
+||spotify.com/ads/
 ! 網頁版撥放器過濾規則-------------------------------------------
 ||spotifycdn.com/cdn/animations/
 ||spotifycdn.com/cdn/images/
